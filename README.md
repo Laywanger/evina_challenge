@@ -21,7 +21,7 @@ L'application Asteroid contient un malware qui souscris à un abonnement mobile 
 7. Remplacer l'url de la page victime par l'url de votre nouvelle page dans le code de l'application.
 8. Recompiler l'app
 9. Tester l'app, le message "Merci pour votre achat" ne doit plus apparaitre.
-10. Envoyer le détail de votre recherche à talents@evina.fr avec comme object "Evina Challenge", n'oublier pas de mettre votre nom, prénom :)
+10. Envoyer le détail de votre recherche à talents@evina.fr avec comme objet "Evina Challenge", n'oublier pas de mettre votre nom, prénom :)
 
 
 
