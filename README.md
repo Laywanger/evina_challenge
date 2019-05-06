@@ -1,7 +1,7 @@
 # EVINA CHALLENGE
 Android security challenge for Evina company
 
-Le but de ce challenge est de découvrir le mécanisme de fraude d'une application et de trouver une solution en Javascript pour protéger la page de facturation.
+Le but de ce challenge est de découvrir le mécanisme de fraude d'une application et de trouver une solution en Javascript pour protéger la fausse page de facturation.
 
 
 <div>
